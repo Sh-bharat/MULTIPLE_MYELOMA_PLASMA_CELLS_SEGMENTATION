@@ -1,0 +1,5 @@
+train: /content/Cancer_Cell_Detection/TCIA_SegPC_dataset/train/x
+val: /content/Cancer_Cell_Detection/TCIA_SegPC_dataset/validation/x
+
+nc: 1
+names: ['Cancer_Cell_part']

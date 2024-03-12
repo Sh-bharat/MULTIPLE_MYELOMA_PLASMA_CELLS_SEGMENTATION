@@ -1,0 +1,5 @@
+train: /content/datasets/train
+val: /content/datasets/val
+
+nc: 1
+names: ['Cancer_Cell_part']

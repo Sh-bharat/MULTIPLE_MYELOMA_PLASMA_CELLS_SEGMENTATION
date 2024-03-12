@@ -39,7 +39,7 @@ pip install opencv-python matplotlib ultralytics
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/multiple-myeloma-plasma-cells-segmentation.git
+git clone https://github.com/Sh-bharat/MULTIPLE_MYELOMA_PLASMA_CELLS_SEGMENTATION/tree/main
 ```
 
 
